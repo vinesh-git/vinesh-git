@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/C%23)
-
+![YOLO](https://img.shields.io/badge/YOLO-black?style=for-the-badge)
 
 <!--
 **vinesh-git/vinesh-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
